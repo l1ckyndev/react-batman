@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-batman/static/css/main.f00aa8c8.css",
+    "main.js": "/react-batman/static/js/main.3f104b99.js",
+    "static/media/Trailer.mp4": "/react-batman/static/media/Trailer.9f2673ede8d7a0d7a0c3.mp4",
+    "static/media/c-3.jpg": "/react-batman/static/media/c-3.d6b7a4370c9265b2c482.jpg",
+    "static/media/Logo.jpg": "/react-batman/static/media/Logo.e9febcc547bd5bfc5bef.jpg",
+    "static/media/c-2.jpg": "/react-batman/static/media/c-2.3a11f148381d97158620.jpg",
+    "static/media/batman.jpg": "/react-batman/static/media/batman.30ccf3397cca697f1eba.jpg",
+    "static/media/c-1.jpg": "/react-batman/static/media/c-1.22f8f8ea05df2623c0ce.jpg",
+    "static/media/c-4.jpg": "/react-batman/static/media/c-4.b26a4136292476963ef0.jpg",
+    "static/media/logo.svg": "/react-batman/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-batman/index.html",
+    "main.f00aa8c8.css.map": "/react-batman/static/css/main.f00aa8c8.css.map",
+    "main.3f104b99.js.map": "/react-batman/static/js/main.3f104b99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f00aa8c8.css",
+    "static/js/main.3f104b99.js"
+  ]
+}
